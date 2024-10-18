@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="페이지-1" id="3IzZFLbNBrZuyqoS3-FD">
-    <mxGraphModel>
+    <mxGraphModel dx="821" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Q_ybKsrgEDEVXXYcY1Q6-1" value="&lt;h6 style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;노드이름: init.answer&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;사용함수이름 : init_answer&lt;br&gt;함수 기능 : question을 받아서 question과 generation을 생성&lt;/span&gt;&lt;/h6&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="220" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;노드이름: query&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;/font&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: normal;&quot;&gt;사용함수이름 : query&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;함수 기능 :&amp;nbsp;&lt;/span&gt;" link="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;노드이름: init.answer&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;/font&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: normal;&quot;&gt;사용함수이름 : init_answer&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;함수 기능 : question을 받아서 question과 generation을 생성&lt;/span&gt;" id="Q_ybKsrgEDEVXXYcY1Q6-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="450" y="470" width="180" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Q_ybKsrgEDEVXXYcY1Q6-5" value="&lt;font style=&quot;font-size: 11px; font-weight: 700;&quot;&gt;노드이름: answer&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;사용함수이름 : answer&lt;br&gt;함수 기능 :&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="510" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_ybKsrgEDEVXXYcY1Q6-6" value="&lt;font style=&quot;font-size: 11px; font-weight: 700;&quot;&gt;노드이름: answer_with_data&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;사용함수이름 : answer_with_data&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;함수기능 :&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="580" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_ybKsrgEDEVXXYcY1Q6-8" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_ybKsrgEDEVXXYcY1Q6-13" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q_ybKsrgEDEVXXYcY1Q6-4" target="Q_ybKsrgEDEVXXYcY1Q6-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="680" as="sourcePoint" />
+            <mxPoint x="440" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_ybKsrgEDEVXXYcY1Q6-14" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q_ybKsrgEDEVXXYcY1Q6-5" target="Q_ybKsrgEDEVXXYcY1Q6-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="680" as="sourcePoint" />
+            <mxPoint x="440" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="670" />
+              <mxPoint x="440" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_ybKsrgEDEVXXYcY1Q6-15" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q_ybKsrgEDEVXXYcY1Q6-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="680" as="sourcePoint" />
+            <mxPoint x="440" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="670" />
+              <mxPoint x="440" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_ybKsrgEDEVXXYcY1Q6-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q_ybKsrgEDEVXXYcY1Q6-1" target="Q_ybKsrgEDEVXXYcY1Q6-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="410" as="sourcePoint" />
+            <mxPoint x="590" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_ybKsrgEDEVXXYcY1Q6-19" value="query" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Q_ybKsrgEDEVXXYcY1Q6-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_ybKsrgEDEVXXYcY1Q6-20" value="decide" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="Q_ybKsrgEDEVXXYcY1Q6-18">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-27" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_ybKsrgEDEVXXYcY1Q6-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q_ybKsrgEDEVXXYcY1Q6-1" target="Q_ybKsrgEDEVXXYcY1Q6-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="390" as="sourcePoint" />
+            <mxPoint x="430" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_ybKsrgEDEVXXYcY1Q6-25" value="answer" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Q_ybKsrgEDEVXXYcY1Q6-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
